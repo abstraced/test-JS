@@ -5,3 +5,6 @@ var $container = document.querySelector('.container');
 var button = document.createElement('button');
  button.innerText = "Test";
  $container.appendChild(button);
+
+
+ console.log('test');
